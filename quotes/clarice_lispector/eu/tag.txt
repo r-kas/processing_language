@@ -1,0 +1,206 @@
+Eu Eu PRON PRON nsubj:pass Xx True True
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+Sou Sou AUX AUX aux:pass Xxx True True
+composta composto VERB VERB ROOT xxxx True False
+por por ADP ADP case xxx True True
+urgências urgência NOUN NOUN obl:agent xxxx True False
+: : PUNCT PUNCT punct : False False
+
+
+ SPACE SPACE dep
+ False False
+minhas meu DET DET det xxxx True True
+alegrias alegria NOUN NOUN nsubj xxxx True False
+são ser AUX AUX cop xxx True True
+intensas intenso ADJ ADJ parataxis xxxx True False
+; ; PUNCT PUNCT punct ; False False
+
+
+ SPACE SPACE dep
+ False False
+minhas meu DET DET det xxxx True True
+tristezas tristeza NOUN NOUN ROOT xxxx True False
+, , PUNCT PUNCT punct , False False
+absolutas absoluto ADJ ADJ amod xxxx True False
+. . PUNCT PUNCT punct . False False
+
+
+ SPACE SPACE dep
+ False False
+Entupo-me Entupo-me VERB VERB ROOT Xxxxx-xx False False
+de de ADP ADP case xx True True
+ausências ausência NOUN NOUN obj xxxx True False
+, , PUNCT PUNCT punct , False False
+
+
+ SPACE SPACE dep
+ False False
+Esvazio-me Esvazio-me NOUN NOUN ROOT Xxxxx-xx False False
+de de ADP ADP case xx True True
+excessos excesso NOUN NOUN nmod xxxx True False
+. . PUNCT PUNCT punct . False False
+
+
+ SPACE SPACE dep
+ False False
+Eu Eu PRON PRON nsubj Xx True True
+não não ADV ADV advmod xxx True True
+caibo caber VERB VERB ROOT xxxx True False
+no o ADP ADP case xx True True
+estreito estreitar NOUN NOUN obl xxxx True False
+, , PUNCT PUNCT punct , False False
+
+
+ SPACE SPACE dep
+ False False
+eu eu PRON PRON nsubj xx True True
+só só ADV ADV advmod xx True True
+vivo viver ADJ ADJ parataxis xxxx True False
+nos o ADP ADP case xxx True True
+extremos extremo NOUN NOUN obl xxxx True False
+. . PUNCT PUNCT punct . False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+Pouco Pouco ADV ADV advmod Xxxxx True True
+não não ADV ADV advmod xxx True True
+me me PRON PRON obj xx True True
+serve servir VERB VERB ROOT xxxx True False
+, , PUNCT PUNCT punct , False False
+
+
+ SPACE SPACE dep
+ False False
+médio médio ADJ ADJ amod xxxx True False
+não não ADV ADV advmod xxx True True
+me me PRON PRON iobj xx True True
+satisfaz satisfazer VERB VERB parataxis xxxx True False
+, , PUNCT PUNCT punct , False False
+
+
+ SPACE SPACE dep
+ False False
+metades metade NOUN NOUN nsubj xxxx True False
+nunca nunca ADV ADV advmod xxxx True True
+foram ser AUX AUX cop xxxx True True
+meu meu DET DET det xxx True True
+forte forte ADJ ADJ parataxis xxxx True False
+! ! PUNCT PUNCT punct ! False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+Todos Todos DET DET det Xxxxx True True
+os o DET DET det xx True True
+grandes grande ADJ ADJ amod xxxx True True
+e e CCONJ CCONJ cc x True True
+pequenos pequeno ADJ ADJ amod xxxx True False
+momentos momento NOUN NOUN ROOT xxxx True False
+, , PUNCT PUNCT punct , False False
+
+
+ SPACE SPACE dep
+ False False
+feitos feito VERB VERB acl xxxx True False
+com com ADP ADP case xxx True True
+amor amor NOUN NOUN obj xxxx True False
+e e CCONJ CCONJ cc x True True
+com com ADP ADP case xxx True True
+carinho caro NOUN NOUN conj xxxx True False
+, , PUNCT PUNCT punct , False False
+
+
+ SPACE SPACE dep
+ False False
+são ser AUX AUX cop xxx True True
+pra pra ADP ADP case xxx True False
+mim mim PRON PRON conj xxx True False
+recordações recordação NOUN NOUN nmod xxxx True False
+eternas eterno ADJ ADJ amod xxxx True False
+. . PUNCT PUNCT punct . False False
+
+
+ SPACE SPACE dep
+ False False
+Palavras Palavras NOUN NOUN nsubj Xxxxx True False
+até até ADV ADV advmod xxx True True
+me me PRON PRON obj xx True True
+conquistam conquistar VERB VERB ROOT xxxx True False
+temporariamente temporariamente ADV ADV advmod xxxx True False
+… … PUNCT PUNCT punct … False False
+
+
+ SPACE SPACE dep
+ False False
+Mas Mas CCONJ CCONJ cc Xxx True True
+atitudes atitude NOUN NOUN nsubj xxxx True False
+me me PRON PRON obj xx True True
+perdem perder VERB VERB ROOT xxxx True False
+ou ou CCONJ CCONJ cc xx True True
+me me PRON PRON obj xx True True
+ganham ganhar VERB VERB conj xxxx True False
+para parir ADP ADP case xxxx True True
+sempre sempre ADV ADV advmod xxxx True True
+. . PUNCT PUNCT punct . False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+Suponho Suponho VERB VERB advcl Xxxxx True False
+que que SCONJ SCONJ mark xxx True True
+me me PRON PRON obj xx True True
+entender entender VERB VERB ccomp xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+não não ADV ADV advmod xxx True True
+é ser AUX AUX cop x True True
+uma umar DET DET det xxx True True
+questão questão NOUN NOUN ROOT xxxx True True
+de de ADP ADP case xx True True
+inteligência inteligência NOUN NOUN nmod xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+e e CCONJ CCONJ cc x True True
+sim sim ADV ADV advmod xxx True True
+de de ADP ADP mark xx True True
+sentir sentir VERB VERB conj xxxx True False
+, , PUNCT PUNCT punct , False False
+
+
+ SPACE SPACE dep
+ False False
+de de SCONJ SCONJ mark xx True True
+entrar entrar VERB VERB acl xxxx True False
+em em ADP ADP case xx True True
+contato contato NOUN NOUN obl xxxx True False
+… … PUNCT PUNCT punct … False False
+
+
+ SPACE SPACE dep
+ False False
+Ou Ou CCONJ CCONJ cc Xx True True
+toca tocar VERB VERB conj xxxx True False
+, , PUNCT PUNCT punct , False False
+ou ou CCONJ CCONJ cc xx True True
+não não ADV ADV advmod xxx True True
+toca tocar VERB VERB conj xxxx True False
