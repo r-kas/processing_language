@@ -1,0 +1,141 @@
+Não Não ADV ADV advmod Xxx True True
+te te PRON PRON obj xx True True
+amo amar VERB VERB ROOT xxx True False
+mais mais ADV ADV advmod xxxx True True
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+Não Não ADV ADV advmod Xxx True True
+te te PRON PRON obj xx True True
+amo amar VERB VERB parataxis xxx True False
+mais mais ADV ADV advmod xxxx True True
+. . PUNCT PUNCT punct . False False
+
+
+ SPACE SPACE dep
+ False False
+Estarei Estarei AUX AUX aux Xxxxx True False
+mentindo mentir VERB VERB ROOT xxxx True False
+dizendo dizer VERB VERB xcomp xxxx True False
+que que SCONJ SCONJ mark xxx True True
+
+
+ SPACE SPACE dep
+ False False
+Ainda Ainda ADV ADV advmod Xxxxx True True
+te te PRON PRON obj xx True True
+quero querer VERB VERB ccomp xxxx True True
+como comer ADV ADV advmod xxxx True True
+sempre sempre ADV ADV advmod xxxx True True
+quis querer VERB VERB advcl xxxx True False
+. . PUNCT PUNCT punct . False False
+
+
+ SPACE SPACE dep
+ False False
+Tenho Tenho VERB VERB ROOT Xxxxx True True
+certeza certeza NOUN NOUN obj xxxx True True
+que que SCONJ SCONJ mark xxx True True
+
+
+ SPACE SPACE dep
+ False False
+Nada Nada PROPN PROPN nsubj Xxxx True True
+foi ser VERB VERB ccomp xxx True True
+em em ADP ADP case xx True True
+vão ir VERB VERB advcl xxx True True
+. . PUNCT PUNCT punct . False False
+
+
+ SPACE SPACE dep
+ False False
+Sinto Sinto VERB VERB ROOT Xxxxx True False
+dentro dentro ADV ADV advmod xxxx True True
+de de ADP ADP case xx True True
+mim mim PRON PRON obl xxx True False
+que que SCONJ SCONJ mark xxx True True
+
+
+ SPACE SPACE dep
+ False False
+Você Você PRON PRON nsubj Xxxx True True
+não não ADV ADV advmod xxx True True
+significa significar VERB VERB ccomp xxxx True False
+nada nado PRON PRON obj xxxx True True
+. . PUNCT PUNCT punct . False False
+
+
+ SPACE SPACE dep
+ False False
+Não Não ADV ADV advmod Xxx True True
+poderia poder VERB VERB ROOT xxxx True False
+dizer dizer VERB VERB xcomp xxxx True True
+jamais jamais ADV ADV advmod xxxx True False
+que que SCONJ SCONJ mark xxx True True
+
+
+ SPACE SPACE dep
+ False False
+Alimento Alimento PROPN PROPN flat:name Xxxxx True False
+um um DET DET det xx True True
+grande grande ADJ ADJ amod xxxx True True
+amor amor NOUN NOUN appos xxxx True False
+. . PUNCT PUNCT punct . False False
+
+
+ SPACE SPACE dep
+ False False
+Sinto Sinto VERB VERB ROOT Xxxxx True False
+cada cada NOUN NOUN obj xxxx True True
+vez vez ADP ADP case xxx True True
+mais mais NOUN NOUN nmod xxxx True True
+que que SCONJ SCONJ mark xxx True True
+
+
+ SPACE SPACE dep
+ False False
+Já Já ADV ADV advmod Xx True True
+te te PRON PRON obj xx True True
+esqueci esquecer VERB VERB advcl xxxx True False
+! ! PUNCT PUNCT punct ! False False
+
+
+ SPACE SPACE dep
+ False False
+E E CCONJ CCONJ cc X True True
+jamais jamais ADV ADV advmod xxxx True False
+usarei usar VERB VERB ROOT xxxx True False
+a o DET DET det x True True
+frase frase NOUN NOUN obj xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+EU EU PROPN PROPN flat:name XX True True
+TE TE PROPN PROPN flat:name XX True True
+AMO AMO VERB VERB flat:name XXX True False
+! ! PUNCT PUNCT punct ! False False
+
+
+ SPACE SPACE dep
+ False False
+Sinto Sinto VERB VERB ROOT Xxxxx True False
+, , PUNCT PUNCT punct , False False
+mas mas CCONJ CCONJ cc xxx True True
+tenho ter AUX AUX aux xxxx True True
+que que SCONJ SCONJ mark xxx True True
+dizer dizer VERB VERB conj xxxx True True
+a o DET DET det x True True
+verdade verdade NOUN NOUN obj xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+É É AUX AUX cop X True True
+tarde tardar ADV ADV ROOT xxxx True True
+demais demais ADV ADV advmod xxxx True True
+… … PUNCT PUNCT punct … False False
