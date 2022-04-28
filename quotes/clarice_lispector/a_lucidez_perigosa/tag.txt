@@ -1,0 +1,264 @@
+A A DET DET det X True True
+lucidez lucidez NOUN NOUN nsubj xxxx True False
+perigosa perigoso ADJ ADJ amod xxxx True False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+Estou Estou AUX AUX aux Xxxxx True True
+sentindo sentir VERB VERB ROOT xxxx True False
+uma umar DET DET det xxx True True
+clareza clareza NOUN NOUN obj xxxx True False
+tão tão ADV ADV advmod xxx True True
+grande grande ADJ ADJ amod xxxx True True
+
+
+ SPACE SPACE dep
+ False False
+que que PRON PRON nsubj xxx True True
+me me PRON PRON iobj xx True True
+anula anular VERB VERB acl:relcl xxxx True False
+como comer ADP ADP case xxxx True True
+pessoa pessoa NOUN NOUN xcomp xxxx True False
+atual atual ADJ ADJ amod xxxx True False
+e e CCONJ CCONJ cc x True True
+comum comum ADJ ADJ conj xxxx True False
+: : PUNCT PUNCT punct : False False
+
+
+ SPACE SPACE dep
+ False False
+é ser AUX AUX cop x True True
+uma umar DET DET det xxx True True
+lucidez lucidez NOUN NOUN ROOT xxxx True False
+vazia vazio ADJ ADJ amod xxxx True False
+, , PUNCT PUNCT punct , False False
+como comer SCONJ SCONJ mark xxxx True True
+explicar explicar VERB VERB advcl xxxx True False
+? ? PUNCT PUNCT punct ? False False
+
+
+ SPACE SPACE dep
+ False False
+assim assim ADV ADV advmod xxxx True True
+como comer ADP ADP case xxxx True True
+um um DET DET det xx True True
+cálculo cálculo NOUN NOUN nmod xxxx True False
+matemático matemático ADJ ADJ amod xxxx True False
+perfeito perfazer ADJ ADJ amod xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+do do ADP ADP case xx True True
+qual qual PRON PRON nmod xxxx True True
+, , PUNCT PUNCT punct , False False
+no o ADP ADP cc xx True True
+entanto entanto NOUN NOUN fixed xxxx True False
+, , PUNCT PUNCT punct , False False
+não não ADV ADV advmod xxx True True
+se se PRON PRON expl xx True True
+precise precisar VERB VERB ROOT xxxx True False
+. . PUNCT PUNCT punct . False False
+Estou Estou VERB VERB ROOT Xxxxx True True
+por por SCONJ SCONJ case xxx True True
+assim assim ADV ADV advmod xxxx True True
+dizer dizer VERB VERB xcomp xxxx True True
+
+
+ SPACE SPACE dep
+ False False
+vendo ver VERB VERB ROOT xxxx True False
+claramente claramente ADV ADV advmod xxxx True False
+o o DET DET det x True True
+vazio vaziar NOUN NOUN obj xxxx True False
+. . PUNCT PUNCT punct . False False
+
+
+ SPACE SPACE dep
+ False False
+E E CCONJ CCONJ cc X True True
+nem nem ADV ADV advmod xxx True True
+entendo entender VERB VERB conj xxxx True False
+aquilo aquilo PRON PRON obj xxxx True True
+que que PRON PRON obj xxx True True
+entendo entender VERB VERB acl:relcl xxxx True False
+: : PUNCT PUNCT punct : False False
+
+
+ SPACE SPACE dep
+ False False
+pois pois ADV ADV advmod xxxx True True
+estou estar AUX AUX cop xxxx True True
+infinitamente infinitamente ADV ADV advmod xxxx True False
+maior maior ADJ ADJ ROOT xxxx True True
+que que SCONJ SCONJ mark xxx True True
+eu eu PRON PRON nsubj xx True True
+mesma mesmo ADJ ADJ amod xxxx True False
+, , PUNCT PUNCT punct , False False
+
+
+ SPACE SPACE dep
+ False False
+e e CCONJ CCONJ cc x True True
+não não ADV ADV advmod xxx True True
+me me PRON PRON obj xx True True
+alcanço alcançar NOUN NOUN ccomp xxxx True False
+. . PUNCT PUNCT punct . False False
+
+
+ SPACE SPACE dep
+ False False
+Além Além ADV ADV cc Xxxx True True
+do do ADP ADP obl xx True True
+que que PRON PRON obl xxx True True
+: : PUNCT PUNCT punct : False False
+
+
+ SPACE SPACE dep
+ False False
+que que PRON PRON nsubj xxx True True
+faço fazer VERB VERB acl:relcl xxxx True True
+dessa dessar ADP ADP case xxxx True True
+lucidez lucidez NOUN NOUN obj xxxx True False
+? ? PUNCT PUNCT punct ? False False
+
+
+ SPACE SPACE dep
+ False False
+Sei Sei VERB VERB ROOT Xxx True True
+também também ADV ADV advmod xxxx True True
+que que SCONJ SCONJ mark xxx True True
+esta este DET DET det xxxx True True
+minha meu DET DET det xxxx True True
+lucidez lucidez NOUN NOUN ccomp xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+pode-se pode-se VERB VERB ROOT xxxx-xx False False
+tornar tornar VERB VERB xcomp xxxx True False
+o o DET DET det x True True
+inferno infernar NOUN NOUN obj xxxx True False
+humano humanar ADJ ADJ amod xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+– – PUNCT PUNCT punct – False False
+já já ADV ADV advmod xx True True
+me me PRON PRON obj xx True True
+aconteceu acontecer VERB VERB conj xxxx True False
+antes antar ADV ADV advmod xxxx True True
+. . PUNCT PUNCT punct . False False
+Pois Pois ADV ADV advmod Xxxx True True
+sei saber VERB VERB ROOT xxx True True
+que que SCONJ SCONJ mark xxx True True
+
+
+ SPACE SPACE dep
+ False False
+– – PUNCT PUNCT punct – False False
+em em ADP ADP case xx True True
+termos termo NOUN NOUN nmod xxxx True False
+de de ADP ADP case xx True True
+nossa nosso DET DET det xxxx True True
+diária diário ADJ ADJ nmod xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+e e CCONJ CCONJ cc x True True
+permanente permanente ADJ ADJ conj xxxx True False
+acomodação acomodação NOUN NOUN conj xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+resignada resignar VERB VERB ROOT xxxx True False
+à à ADP ADP case x True True
+irrealidade irrealidade NOUN NOUN obl xxxx True False
+– – PUNCT PUNCT punct – False False
+
+
+ SPACE SPACE dep
+ False False
+essa esse DET DET det xxxx True True
+clareza clareza NOUN NOUN dep xxxx True False
+de de ADP ADP case xx True True
+realidade realidade NOUN NOUN nmod xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+é ser AUX AUX cop x True True
+um um DET DET det xx True True
+risco riscar NOUN NOUN ROOT xxxx True False
+. . PUNCT PUNCT punct . False False
+Apagai Apagai PROPN PROPN ROOT Xxxxx True False
+, , PUNCT PUNCT punct , False False
+pois pois ADV ADV advmod xxxx True True
+, , PUNCT PUNCT punct , False False
+minha meu DET DET det xxxx True True
+flama flama NOUN NOUN parataxis xxxx True False
+, , PUNCT PUNCT punct , False False
+Deus Deus PROPN PROPN conj Xxxx True False
+, , PUNCT PUNCT punct , False False
+
+
+ SPACE SPACE dep
+ False False
+porque porque SCONJ SCONJ mark xxxx True True
+ela ele PRON PRON nsubj xxx True True
+não não ADV ADV advmod xxx True True
+me me PRON PRON obj xx True True
+serve servir VERB VERB parataxis xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+para parir SCONJ SCONJ mark xxxx True True
+viver viver VERB VERB advcl xxxx True False
+os o DET DET det xx True True
+dias dia NOUN NOUN obj xxxx True False
+. . PUNCT PUNCT punct . False False
+
+
+ SPACE SPACE dep
+ False False
+Ajudai-me Ajudai-me VERB VERB ROOT Xxxxx-xx False False
+a o DET DET obj x True True
+de de ADP ADP advmod xx True True
+novo novo NOUN NOUN fixed xxxx True True
+consistir consistir VERB VERB nmod xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+dos dos ADP ADP case xxx True True
+modos modo NOUN NOUN nmod xxxx True False
+possíveis possível ADJ ADJ amod xxxx True False
+. . PUNCT PUNCT punct . False False
+
+
+ SPACE SPACE dep
+ False False
+Eu Eu PRON PRON ROOT Xx True True
+consisto consistir PROPN PROPN amod xxxx True False
+, , PUNCT PUNCT punct , False False
+
+
+ SPACE SPACE dep
+ False False
+eu eu PRON PRON nsubj xx True True
+consisto consistir ADJ ADJ conj xxxx True False
+, , PUNCT PUNCT punct , False False
+
+
+ SPACE SPACE dep
+ False False
+amém amém PROPN PROPN flat:name xxxx True False
+. . PUNCT PUNCT punct . False False
