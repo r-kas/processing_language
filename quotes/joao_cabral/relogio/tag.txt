@@ -1,0 +1,215 @@
+O O DET DET det X True True
+relógio relógio NOUN NOUN ROOT xxxx True False
+( ( PUNCT PUNCT punct ( False False
+trecho trecho NOUN NOUN appos xxxx True False
+) ) PUNCT PUNCT punct ) False False
+, , PUNCT PUNCT punct , False False
+1945 1945 NUM NUM nummod dddd False False
+
+
+ SPACE SPACE dep
+ False False
+Ao Ao ADP ADP case Xx True True
+redor redor NOUN NOUN ROOT xxxx True False
+da da ADP ADP case xx True True
+vida vidar NOUN NOUN nmod xxxx True False
+do do ADP ADP case xx True True
+homem homem NOUN NOUN nmod xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+há haver VERB VERB advcl xx True False
+certas certo DET DET det xxxx True False
+caixas caixa NOUN NOUN obj xxxx True False
+de de ADP ADP case xx True True
+vidro vidrar NOUN NOUN nmod xxxx True False
+, , PUNCT PUNCT punct , False False
+
+
+ SPACE SPACE dep
+ False False
+dentro dentro ADV ADV advmod xxxx True True
+das das ADP ADP case xxx True True
+quais qual PRON PRON obl xxxx True True
+, , PUNCT PUNCT punct , False False
+como comer ADP ADP case xxxx True True
+em em ADP ADP case xx True True
+jaula jaula NOUN NOUN obl xxxx True False
+, , PUNCT PUNCT punct , False False
+
+
+ SPACE SPACE dep
+ False False
+se se PRON PRON expl xx True True
+ouve ouvir VERB VERB ROOT xxxx True False
+palpitar palpitar VERB VERB xcomp xxxx True False
+um um DET DET det xx True True
+bicho bichar NOUN NOUN obj xxxx True False
+. . PUNCT PUNCT punct . False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+Se Se SCONJ SCONJ mark Xx True True
+são ser AUX AUX cop xxx True True
+jaulas jaula NOUN NOUN nsubj xxxx True False
+não não ADV ADV advmod xxx True True
+é ser AUX AUX cop x True True
+certo certar ADJ ADJ parataxis xxxx True False
+; ; PUNCT PUNCT punct ; False False
+
+
+ SPACE SPACE dep
+ False False
+mais mais ADV ADV advmod xxxx True True
+perto perto ADV ADV advmod xxxx True True
+estão estar AUX AUX cop xxxx True True
+das das ADP ADP case xxx True True
+gaiolas gaiola NOUN NOUN nmod xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+ao ao ADP ADP case xx True True
+menos menos NOUN NOUN nmod xxxx True True
+, , PUNCT PUNCT punct , False False
+pelo pelar ADP ADP case xxxx True True
+tamanho tamanho NOUN NOUN nmod xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+e e CCONJ CCONJ cc x True True
+quadradiço quadradiço NOUN NOUN conj xxxx True False
+de de ADP ADP case xx True True
+forma formar NOUN NOUN nmod xxxx True True
+. . PUNCT PUNCT punct . False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+Umas Umas NUM NUM case Xxxx True True
+vezes vezar NOUN NOUN obl xxxx True True
+, , PUNCT PUNCT punct , False False
+tais tal DET DET det xxxx True True
+gaiolas gaiola NOUN NOUN nsubj xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+vão ir AUX AUX aux xxx True True
+penduradas pendurar VERB VERB ROOT xxxx True False
+nos o ADP ADP case xxx True True
+muros muro NOUN NOUN obl xxxx True False
+; ; PUNCT PUNCT punct ; False False
+
+
+ SPACE SPACE dep
+ False False
+outras outro DET DET det xxxx True True
+vezes vezar NOUN NOUN obl xxxx True True
+, , PUNCT PUNCT punct , False False
+mais mais ADV ADV advmod xxxx True True
+privadas privar ADJ ADJ amod xxxx True False
+, , PUNCT PUNCT punct , False False
+
+
+ SPACE SPACE dep
+ False False
+vão ir AUX AUX ROOT xxx True True
+num num ADP ADP case xxx True True
+bolso bolsar NOUN NOUN obl xxxx True False
+, , PUNCT PUNCT punct , False False
+num num NUM NUM appos xxx True True
+dos dos ADP ADP case xxx True True
+pulsos pulso NOUN NOUN nmod xxxx True False
+. . PUNCT PUNCT punct . False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+Mas Mas CCONJ CCONJ cc Xxx True True
+onde onde PRON PRON nmod xxxx True True
+esteja estar VERB VERB cop xxxx True False
+: : PUNCT PUNCT punct : False False
+a o DET DET det x True True
+gaiola gaiola NOUN NOUN nsubj xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+será ser AUX AUX cop xxxx True False
+de de ADP ADP case xx True True
+pássaro pássaro NOUN NOUN nmod xxxx True False
+ou ou CCONJ CCONJ cc xx True True
+pássara pássara VERB VERB conj xxxx True False
+: : PUNCT PUNCT punct : False False
+
+
+ SPACE SPACE dep
+ False False
+é ser AUX AUX cop x True True
+alada alar VERB VERB parataxis xxxx True False
+a o DET DET det x True True
+palpitação palpitação NOUN NOUN nsubj xxxx True False
+, , PUNCT PUNCT punct , False False
+
+
+ SPACE SPACE dep
+ False False
+a o DET DET det x True True
+saltação saltação NOUN NOUN ROOT xxxx True False
+que que PRON PRON obj xxx True True
+ela ele PRON PRON nsubj xxx True True
+guarda guardar VERB VERB acl:relcl xxxx True False
+; ; PUNCT PUNCT punct ; False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+e e CCONJ CCONJ cc x True True
+de de ADP ADP case xx True True
+pássaro pássaro ADJ ADJ conj xxxx True False
+cantor cantor NOUN NOUN flat:name xxxx True False
+, , PUNCT PUNCT punct , False False
+
+
+ SPACE SPACE dep
+ False False
+não não ADV ADV advmod xxx True True
+pássaro pássaro NOUN NOUN flat:name xxxx True False
+de de ADP ADP case xx True True
+plumagem plumagem NOUN NOUN nmod xxxx True False
+: : PUNCT PUNCT punct : False False
+
+
+ SPACE SPACE dep
+ False False
+pois pois SCONJ SCONJ mark xxxx True True
+delas delas PRON PRON fixed xxxx True False
+se se PRON PRON nsubj xx True True
+emite emitir VERB VERB acl:relcl xxxx True False
+um um DET DET det xx True True
+canto cantar NOUN NOUN obj xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+de de ADP ADP case xx True True
+uma umar DET DET det xxx True True
+tal tal DET DET det xxx True True
+continuidade continuidade NOUN NOUN nmod xxxx True False
+. . PUNCT PUNCT punct . False False
