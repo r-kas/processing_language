@@ -1,0 +1,809 @@
+Os Os DET DET det Xx True True
+três três NUM NUM nummod xxxx True True
+mal-amados mal-amados NOUN NOUN ROOT xxx-xxxx False False
+, , PUNCT PUNCT punct , False False
+1943 1943 NUM NUM conj dddd False False
+
+
+ SPACE SPACE dep
+ False False
+O O DET DET det X True True
+amor amor NOUN NOUN nsubj xxxx True False
+comeu comer VERB VERB ROOT xxxx True False
+meu meu DET DET det xxx True True
+nome nome NOUN NOUN obj xxxx True False
+, , PUNCT PUNCT punct , False False
+minha meu DET DET det xxxx True True
+identidade identidade NOUN NOUN conj xxxx True False
+, , PUNCT PUNCT punct , False False
+
+
+ SPACE SPACE dep
+ False False
+meu meu DET DET det xxx True True
+retrato retratar NOUN NOUN obj xxxx True False
+. . PUNCT PUNCT punct . False False
+O O DET DET det X True True
+amor amor NOUN NOUN nsubj xxxx True False
+comeu comer VERB VERB ROOT xxxx True False
+minha meu DET DET det xxxx True True
+certidão certidão NOUN NOUN obj xxxx True False
+de de ADP ADP case xx True True
+idade idade NOUN NOUN nmod xxxx True False
+, , PUNCT PUNCT punct , False False
+
+
+ SPACE SPACE dep
+ False False
+minha meu DET DET det xxxx True True
+genealogia genealogia NOUN NOUN dep xxxx True False
+, , PUNCT PUNCT punct , False False
+meu meu DET DET det xxx True True
+endereço endereçar NOUN NOUN conj xxxx True False
+. . PUNCT PUNCT punct . False False
+O O DET DET det X True True
+amor amor NOUN NOUN nsubj xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+comeu comer VERB VERB ROOT xxxx True False
+meus meu DET DET det xxxx True True
+cartões cartão NOUN NOUN obj xxxx True False
+de de ADP ADP case xx True True
+visita visitar NOUN NOUN nmod xxxx True False
+. . PUNCT PUNCT punct . False False
+O O DET DET det X True True
+amor amor NOUN NOUN nsubj xxxx True False
+veio vir VERB VERB ROOT xxxx True False
+e e CCONJ CCONJ cc x True True
+comeu comer VERB VERB conj xxxx True False
+todos todo PRON PRON det xxxx True True
+
+
+ SPACE SPACE dep
+ False False
+os o DET DET det xx True True
+papéis papel NOUN NOUN obj xxxx True False
+onde onde PRON PRON obl xxxx True True
+eu eu PRON PRON nsubj xx True True
+escrevera escrever VERB VERB acl:relcl xxxx True False
+meu meu DET DET det xxx True True
+nome nome NOUN NOUN obj xxxx True False
+. . PUNCT PUNCT punct . False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+O O DET DET det X True True
+amor amor NOUN NOUN nsubj xxxx True False
+comeu comer VERB VERB ROOT xxxx True False
+minhas meu DET DET det xxxx True True
+roupas roupar NOUN NOUN obj xxxx True False
+, , PUNCT PUNCT punct , False False
+meus meu DET DET det xxxx True True
+lenços lenço NOUN NOUN conj xxxx True False
+, , PUNCT PUNCT punct , False False
+minhas meu DET DET det xxxx True True
+
+
+ SPACE SPACE dep
+ False False
+camisas camisa NOUN NOUN flat:name xxxx True False
+. . PUNCT PUNCT punct . False False
+O O DET DET det X True True
+amor amor NOUN NOUN nsubj xxxx True False
+comeu comer VERB VERB ROOT xxxx True False
+metros metro NOUN NOUN obj xxxx True False
+e e CCONJ CCONJ cc x True True
+metros metro NOUN NOUN conj xxxx True False
+de de ADP ADP case xx True True
+
+
+ SPACE SPACE dep
+ False False
+gravatas gravata NOUN NOUN flat:name xxxx True False
+. . PUNCT PUNCT punct . False False
+O O DET DET det X True True
+amor amor NOUN NOUN nsubj xxxx True False
+comeu comer VERB VERB ROOT xxxx True False
+a o DET DET det x True True
+medida medir NOUN NOUN obj xxxx True False
+de de ADP ADP case xx True True
+meus meu DET DET det xxxx True True
+ternos terno NOUN NOUN nmod xxxx True False
+, , PUNCT PUNCT punct , False False
+o o DET DET det x True True
+
+
+ SPACE SPACE dep
+ False False
+número número NOUN NOUN flat:name xxxx True True
+de de ADP ADP case xx True True
+meus meu DET DET det xxxx True True
+sapatos sapato NOUN NOUN nmod xxxx True False
+, , PUNCT PUNCT punct , False False
+o o DET DET det x True True
+tamanho tamanho NOUN NOUN conj xxxx True False
+de de ADP ADP case xx True True
+meus meu DET DET det xxxx True True
+
+
+ SPACE SPACE dep
+ False False
+chapéus chapéu NOUN NOUN nmod xxxx True False
+. . PUNCT PUNCT punct . False False
+O O DET DET det X True True
+amor amor NOUN NOUN nsubj xxxx True False
+comeu comer VERB VERB ROOT xxxx True False
+minha meu DET DET det xxxx True True
+altura altura NOUN NOUN obj xxxx True False
+, , PUNCT PUNCT punct , False False
+meu meu DET DET det xxx True True
+peso pesar NOUN NOUN obl xxxx True False
+, , PUNCT PUNCT punct , False False
+a o DET DET det x True True
+
+
+ SPACE SPACE dep
+ False False
+cor cor NOUN NOUN flat:name xxx True False
+de de ADP ADP case xx True True
+meus meu DET DET det xxxx True True
+olhos olho NOUN NOUN nmod xxxx True False
+e e CCONJ CCONJ cc x True True
+de de ADP ADP case xx True True
+meus meu DET DET det xxxx True True
+cabelos cabelo NOUN NOUN conj xxxx True False
+. . PUNCT PUNCT punct . False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+O O DET DET det X True True
+amor amor NOUN NOUN nsubj xxxx True False
+comeu comer VERB VERB ROOT xxxx True False
+meus meu DET DET det xxxx True True
+remédios remédio NOUN NOUN obj xxxx True False
+, , PUNCT PUNCT punct , False False
+minhas meu DET DET det xxxx True True
+receitas receitar NOUN NOUN conj xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+médicas médico ADJ ADJ amod xxxx True False
+, , PUNCT PUNCT punct , False False
+minhas meu DET DET det xxxx True True
+dietas dieta NOUN NOUN conj xxxx True False
+. . PUNCT PUNCT punct . False False
+Comeu Comeu NOUN NOUN ROOT Xxxxx True False
+minhas meu DET DET det xxxx True True
+aspirinas aspirina NOUN NOUN obj xxxx True False
+, , PUNCT PUNCT punct , False False
+
+
+ SPACE SPACE dep
+ False False
+minhas meu DET DET det xxxx True True
+ondas-curtas ondas-curtas NOUN NOUN dep xxxx-xxxx False False
+, , PUNCT PUNCT punct , False False
+meus meu DET DET det xxxx True True
+raios-X. raios-X. NOUN NOUN appos xxxx-X. False False
+Comeu Comeu NOUN NOUN ROOT Xxxxx True False
+meus meu DET DET flat:name xxxx True True
+
+
+ SPACE SPACE dep
+ False False
+testes teste NOUN NOUN ROOT xxxx True False
+mentais mental ADJ ADJ amod xxxx True False
+, , PUNCT PUNCT punct , False False
+meus meu DET DET det xxxx True True
+exames exame NOUN NOUN appos xxxx True False
+de de ADP ADP case xx True True
+urina urinar NOUN NOUN nmod xxxx True False
+. . PUNCT PUNCT punct . False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+O O DET DET det X True True
+amor amor NOUN NOUN nsubj xxxx True False
+comeu comer VERB VERB ROOT xxxx True False
+na o ADP ADP case xx True True
+estante estante NOUN NOUN obl xxxx True False
+todos todo DET DET det xxxx True True
+os o DET DET fixed xx True True
+meus meu DET DET det xxxx True True
+livros livro NOUN NOUN obj xxxx True False
+de de ADP ADP case xx True True
+
+
+ SPACE SPACE dep
+ False False
+poesia poesia PROPN PROPN flat:name xxxx True False
+. . PUNCT PUNCT punct . False False
+Comeu Comeu NOUN NOUN ROOT Xxxxx True False
+em em ADP ADP case xx True True
+meus meu DET DET det xxxx True True
+livros livro NOUN NOUN nmod xxxx True False
+de de ADP ADP case xx True True
+prosa prosar NOUN NOUN nmod xxxx True False
+as o DET DET det xx True True
+citações citação NOUN NOUN nsubj xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+em em ADP ADP case xx True True
+verso versar NOUN NOUN nmod xxxx True False
+. . PUNCT PUNCT ROOT . False False
+Comeu Comeu NOUN NOUN ROOT Xxxxx True False
+no o ADP ADP case xx True True
+dicionário dicionário NOUN NOUN obl xxxx True False
+as o DET DET det xx True True
+palavras palavra NOUN NOUN nsubj xxxx True False
+que que PRON PRON obj xxx True True
+
+
+ SPACE SPACE dep
+ False False
+poderiam poder VERB VERB acl:relcl xxxx True False
+se se PRON PRON expl xx True True
+juntar juntar VERB VERB xcomp xxxx True False
+em em ADP ADP case xx True True
+versos verso NOUN NOUN obl xxxx True False
+. . PUNCT PUNCT punct . False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+Faminto Faminto PROPN PROPN obl Xxxxx True False
+, , PUNCT PUNCT punct , False False
+o o DET DET det x True True
+amor amor NOUN NOUN nsubj xxxx True False
+devorou devorar VERB VERB ROOT xxxx True False
+os o DET DET det xx True True
+utensílios utensílio NOUN NOUN obj xxxx True False
+de de ADP ADP case xx True True
+meu meu DET DET det xxx True True
+uso usar NOUN NOUN nmod xxx True False
+: : PUNCT PUNCT punct : False False
+
+
+ SPACE SPACE dep
+ False False
+pente pente NOUN NOUN ROOT xxxx True False
+, , PUNCT PUNCT punct , False False
+navalha navalhar NOUN NOUN conj xxxx True False
+, , PUNCT PUNCT punct , False False
+escovas escovar NOUN NOUN conj xxxx True False
+, , PUNCT PUNCT punct , False False
+tesouras tesourar NOUN NOUN conj xxxx True False
+de de ADP ADP case xx True True
+unhas unhar NOUN NOUN nmod xxxx True False
+, , PUNCT PUNCT punct , False False
+
+
+ SPACE SPACE dep
+ False False
+canivete canivete PROPN PROPN flat:name xxxx True False
+. . PUNCT PUNCT punct . False False
+Faminto Faminto VERB VERB advcl Xxxxx True False
+ainda ainda ADV ADV advmod xxxx True True
+, , PUNCT PUNCT punct , False False
+o o DET DET det x True True
+amor amor NOUN NOUN nsubj xxxx True False
+devorou devorar VERB VERB ROOT xxxx True False
+o o DET DET det x True True
+uso usar NOUN NOUN obj xxx True False
+de de ADP ADP case xx True True
+
+
+ SPACE SPACE dep
+ False False
+meus meu DET DET det xxxx True True
+utensílios utensílio NOUN NOUN obj xxxx True False
+: : PUNCT PUNCT punct : False False
+meus meu DET DET det xxxx True True
+banhos banho NOUN NOUN appos xxxx True False
+frios frio ADJ ADJ amod xxxx True False
+, , PUNCT PUNCT punct , False False
+a o DET DET det x True True
+ópera ópera NOUN NOUN appos xxxx True False
+cantada cantar VERB VERB acl xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+no o ADP ADP case xx True True
+banheiro banheiro NOUN NOUN nmod xxxx True False
+, , PUNCT PUNCT punct , False False
+o o DET DET det x True True
+aquecedor aquecedor NOUN NOUN obj xxxx True False
+de de ADP ADP case xx True True
+água água NOUN NOUN nmod xxxx True False
+de de ADP ADP case xx True True
+fogo fogo NOUN NOUN nmod xxxx True False
+morto morto ADJ ADJ acl xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+mas mas CCONJ CCONJ cc xxx True True
+que que PRON PRON nsubj xxx True True
+parecia parecer VERB VERB conj xxxx True False
+uma umar DET DET det xxx True True
+usina usina NOUN NOUN xcomp xxxx True False
+. . PUNCT PUNCT punct . False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+O O DET DET det X True True
+amor amor NOUN NOUN nsubj xxxx True False
+comeu comer VERB VERB ROOT xxxx True False
+as o DET DET det xx True True
+frutas frutar NOUN NOUN obj xxxx True False
+postas posto ADJ ADJ acl xxxx True False
+sobre sobrar ADP ADP case xxxx True True
+a o DET DET det x True True
+mesa mesa NOUN NOUN obl xxxx True False
+. . PUNCT PUNCT punct . False False
+Bebeu Bebeu VERB VERB ROOT Xxxxx True False
+
+
+ SPACE SPACE dep
+ False False
+a o DET DET det x True True
+água água NOUN NOUN obj xxxx True False
+dos dos ADP ADP case xxx True True
+copos copo NOUN NOUN nmod xxxx True False
+e e CCONJ CCONJ cc x True True
+das das ADP ADP case xxx True True
+quartinhas quartinha PROPN PROPN conj xxxx True False
+. . PUNCT PUNCT punct . False False
+Comeu Comeu VERB VERB ROOT Xxxxx True False
+o o DET DET det x True True
+pão pão NOUN NOUN nsubj xxx True False
+de de ADP ADP case xx True True
+
+
+ SPACE SPACE dep
+ False False
+propósito propósito NOUN NOUN nmod xxxx True False
+escondido esconder VERB VERB acl xxxx True False
+. . PUNCT PUNCT punct . False False
+Bebeu Bebeu VERB VERB ROOT Xxxxx True False
+as o DET DET det xx True True
+lágrimas lágrima NOUN NOUN obj xxxx True False
+dos dos ADP ADP case xxx True True
+olhos olho NOUN NOUN nmod xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+que que PRON PRON nsubj xxx True True
+, , PUNCT PUNCT punct , False False
+ninguém ninguém PRON PRON nsubj xxxx True False
+o o PRON PRON obj x True True
+sabia saber VERB VERB acl:relcl xxxx True False
+, , PUNCT PUNCT punct , False False
+estavam estar AUX AUX cop xxxx True False
+cheios cheio ADJ ADJ parataxis xxxx True False
+de de ADP ADP case xx True True
+água água NOUN NOUN obl xxxx True False
+. . PUNCT PUNCT punct . False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+O O DET DET det X True True
+amor amor NOUN NOUN nsubj xxxx True False
+voltou voltar VERB VERB ROOT xxxx True False
+para parir SCONJ SCONJ mark xxxx True True
+comer comer VERB VERB advcl xxxx True False
+os o DET DET det xx True True
+papéis papel NOUN NOUN obj xxxx True False
+onde onde PRON PRON obl xxxx True True
+
+
+ SPACE SPACE dep
+ False False
+irrefletidamente irrefletidamente ADV ADV advmod xxxx True False
+eu eu PRON PRON nsubj xx True True
+tornara tornar VERB VERB acl:relcl xxxx True False
+a o SCONJ SCONJ mark x True True
+escrever escrever VERB VERB xcomp xxxx True False
+meu meu DET DET det xxx True True
+nome nome NOUN NOUN obj xxxx True False
+. . PUNCT PUNCT punct . False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+O O DET DET det X True True
+amor amor NOUN NOUN nsubj xxxx True False
+roeu roer VERB VERB ROOT xxxx True False
+minha meu DET DET det xxxx True True
+infância infância NOUN NOUN obj xxxx True False
+, , PUNCT PUNCT punct , False False
+de de ADP ADP case xx True True
+dedos dedo NOUN NOUN nmod xxxx True False
+sujos sujo ADJ ADJ amod xxxx True False
+de de ADP ADP case xx True True
+tinta tinto NOUN NOUN nmod xxxx True False
+, , PUNCT PUNCT punct , False False
+
+
+ SPACE SPACE dep
+ False False
+cabelo cabelar NOUN NOUN obj xxxx True False
+caindo cair VERB VERB acl xxxx True False
+nos o ADP ADP case xxx True True
+olhos olho NOUN NOUN obl xxxx True False
+, , PUNCT PUNCT punct , False False
+botinas botina NOUN NOUN obj xxxx True False
+nunca nunca ADV ADV advmod xxxx True True
+engraxadas engraxar VERB VERB acl xxxx True False
+. . PUNCT PUNCT punct . False False
+
+
+ SPACE SPACE dep
+ False False
+O O DET DET det X True True
+amor amor NOUN NOUN nsubj xxxx True False
+roeu roer VERB VERB ROOT xxxx True False
+o o DET DET det x True True
+menino menino NOUN NOUN obj xxxx True False
+esquivo esquivar ADJ ADJ appos xxxx True False
+, , PUNCT PUNCT punct , False False
+sempre sempre ADV ADV advmod xxxx True True
+nos o ADP ADP case xxx True True
+cantos canto NOUN NOUN obl xxxx True False
+, , PUNCT PUNCT punct , False False
+
+
+ SPACE SPACE dep
+ False False
+e e CCONJ CCONJ cc x True True
+que que PRON PRON nsubj xxx True True
+riscava riscar VERB VERB conj xxxx True False
+os o DET DET det xx True True
+livros livro NOUN NOUN obj xxxx True False
+, , PUNCT PUNCT punct , False False
+mordia morder VERB VERB conj xxxx True False
+o o DET DET det x True True
+lápis lápis NOUN NOUN obj xxxx True False
+, , PUNCT PUNCT punct , False False
+andava andar VERB VERB conj xxxx True False
+na o ADP ADP case xx True True
+rua ruir PROPN PROPN obl xxx True False
+
+
+ SPACE SPACE dep
+ False False
+chutando chutar VERB VERB ROOT xxxx True False
+pedras pedrar NOUN NOUN obj xxxx True False
+. . PUNCT PUNCT punct . False False
+Roeu Roeu NOUN NOUN ROOT Xxxx True False
+as o DET DET det xx True True
+conversas converso NOUN NOUN nsubj xxxx True False
+, , PUNCT PUNCT punct , False False
+junto juntar ADV ADV advmod xxxx True False
+à à ADP ADP case x True True
+bomba bomba NOUN NOUN obl xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+de de ADP ADP case xx True True
+gasolina gasolina NOUN NOUN nmod xxxx True False
+do do ADP ADP case xx True True
+largo largar NOUN NOUN nmod xxxx True False
+, , PUNCT PUNCT punct , False False
+com com ADP ADP case xxx True True
+os o DET DET det xx True True
+primos primo NOUN NOUN nmod xxxx True False
+que que PRON PRON nsubj xxx True True
+tudo tudo PRON PRON nsubj xxxx True True
+sabiam saber VERB VERB acl:relcl xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+sobre sobrar ADP ADP case xxxx True True
+passarinhos pássaro NOUN NOUN nmod xxxx True False
+, , PUNCT PUNCT punct , False False
+sobre sobrar ADP ADP case xxxx True True
+uma umar DET DET det xxx True True
+mulher mulher NOUN NOUN nmod xxxx True False
+, , PUNCT PUNCT punct , False False
+sobre sobrar ADP ADP case xxxx True True
+marcas marcar NOUN NOUN nmod xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+de de ADP ADP case xx True True
+automóvel automóvel NOUN NOUN nmod xxxx True False
+. . PUNCT PUNCT punct . False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+O O DET DET det X True True
+amor amor NOUN NOUN nsubj xxxx True False
+comeu comer VERB VERB ROOT xxxx True False
+meu meu DET DET det xxx True True
+Estado Estado NOUN NOUN obj Xxxxx True True
+e e CCONJ CCONJ cc x True True
+minha meu DET DET det xxxx True True
+cidade cidade NOUN NOUN conj xxxx True False
+. . PUNCT PUNCT punct . False False
+Drenou Drenou PROPN PROPN amod Xxxxx True False
+a o ADP ADP case x True True
+
+
+ SPACE SPACE dep
+ False False
+água água NOUN NOUN nsubj xxxx True False
+morta morto ADJ ADJ amod xxxx True False
+dos dos ADP ADP case xxx True True
+mangues mangue NOUN NOUN nmod xxxx True False
+, , PUNCT PUNCT punct , False False
+aboliu abolir VERB VERB ROOT xxxx True False
+a o DET DET det x True True
+maré maré NOUN NOUN obj xxxx True False
+. . PUNCT PUNCT punct . False False
+Comeu Comeu VERB VERB amod Xxxxx True False
+os o DET DET det xx True True
+
+
+ SPACE SPACE dep
+ False False
+mangues mangue NOUN NOUN flat:name xxxx True False
+crespos crespo ADJ ADJ amod xxxx True False
+e e CCONJ CCONJ cc x True True
+de de ADP ADP case xx True True
+folhas folhar NOUN NOUN conj xxxx True False
+duras duro ADJ ADJ amod xxxx True False
+, , PUNCT PUNCT punct , False False
+comeu comer VERB VERB ROOT xxxx True False
+o o DET DET det x True True
+verde ver NOUN NOUN obj xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+ácido ácido NOUN NOUN flat:name xxxx True False
+das das ADP ADP case xxx True True
+plantas plantar NOUN NOUN nmod xxxx True False
+de de ADP ADP case xx True True
+cana cano NOUN NOUN nmod xxxx True False
+cobrindo cobrir VERB VERB advcl xxxx True False
+os o DET DET det xx True True
+morros morro NOUN NOUN obj xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+regulares regular ADJ ADJ amod xxxx True False
+, , PUNCT PUNCT punct , False False
+cortados cortar VERB VERB acl xxxx True False
+pelas pelar ADP ADP case xxxx True True
+barreiras barreirar NOUN NOUN obl:agent xxxx True False
+vermelhas vermelho ADJ ADJ amod xxxx True False
+, , PUNCT PUNCT punct , False False
+pelo pelar ADP ADP case xxxx True True
+
+
+ SPACE SPACE dep
+ False False
+trenzinho trenzinho NOUN NOUN obl:agent xxxx True False
+preto preto ADJ ADJ amod xxxx True False
+, , PUNCT PUNCT punct , False False
+pelas pelar ADP ADP case xxxx True True
+chaminés chaminé NOUN NOUN obl xxxx True False
+. . PUNCT PUNCT punct . False False
+Comeu Comeu NOUN NOUN ROOT Xxxxx True False
+o o DET DET det x True True
+cheiro cheirar NOUN NOUN nsubj xxxx True False
+de de ADP ADP case xx True True
+
+
+ SPACE SPACE dep
+ False False
+cana cano PROPN PROPN flat:name xxxx True False
+cortada cortar VERB VERB acl xxxx True False
+e e CCONJ CCONJ cc x True True
+o o DET DET det x True True
+cheiro cheirar NOUN NOUN conj xxxx True False
+de de ADP ADP case xx True True
+maresia maresia NOUN NOUN nmod xxxx True False
+. . PUNCT PUNCT punct . False False
+Comeu Comeu NOUN NOUN ROOT Xxxxx True False
+até até ADP ADP case xxx True True
+essas esse DET DET nmod xxxx True True
+
+
+ SPACE SPACE dep
+ False False
+coisas coisa NOUN NOUN nsubj xxxx True False
+de de ADP ADP case xx True True
+que que PRON PRON nmod xxx True True
+eu eu PRON PRON nsubj xx True True
+desesperava desesperar VERB VERB acl:relcl xxxx True False
+por por SCONJ SCONJ mark xxx True True
+não não ADV ADV advmod xxx True True
+saber saber VERB VERB advcl xxxx True True
+falar falar VERB VERB xcomp xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+delas delas PRON PRON iobj xxxx True False
+em em ADP ADP case xx True True
+verso versar NOUN NOUN obl xxxx True False
+. . PUNCT PUNCT punct . False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+O O DET DET det X True True
+amor amor NOUN NOUN nsubj xxxx True False
+comeu comer VERB VERB ROOT xxxx True False
+até até ADP ADP case xxx True True
+os o DET DET det xx True True
+dias dia NOUN NOUN obl xxxx True False
+ainda ainda ADV ADV advmod xxxx True True
+não não ADV ADV advmod xxx True True
+anunciados anunciar VERB VERB acl xxxx True False
+nas o ADP ADP case xxx True True
+
+
+ SPACE SPACE dep
+ False False
+folhinhas folhinha NOUN NOUN obl xxxx True False
+. . PUNCT PUNCT punct . False False
+Comeu Comeu VERB VERB ROOT Xxxxx True False
+os o DET DET det xx True True
+minutos minuto NOUN NOUN obj xxxx True False
+de de ADP ADP case xx True True
+adiantamento adiantamento NOUN NOUN nmod xxxx True False
+de de ADP ADP case xx True True
+
+
+ SPACE SPACE dep
+ False False
+meu meu DET DET det xxx True True
+relógio relógio NOUN NOUN conj xxxx True False
+, , PUNCT PUNCT punct , False False
+os o DET DET det xx True True
+anos ano NOUN NOUN dep xxxx True False
+que que SCONJ SCONJ obj xxx True True
+as o DET DET det xx True True
+linhas linha NOUN NOUN nsubj xxxx True False
+de de ADP ADP case xx True True
+minha meu DET DET det xxxx True True
+mão mão NOUN NOUN nmod xxx True False
+
+
+ SPACE SPACE dep
+ False False
+asseguravam assegurar VERB VERB acl:relcl xxxx True False
+. . PUNCT PUNCT punct . False False
+Comeu Comeu NOUN NOUN ROOT Xxxxx True False
+o o DET DET det x True True
+futuro futurar NOUN NOUN nsubj xxxx True False
+grande grande ADJ ADJ amod xxxx True True
+atleta atleta NOUN NOUN nmod xxxx True False
+, , PUNCT PUNCT punct , False False
+o o DET DET det x True True
+futuro futurar NOUN NOUN parataxis xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+grande grande ADJ ADJ amod xxxx True True
+poeta poetar NOUN NOUN nmod xxxx True False
+. . PUNCT PUNCT punct . False False
+Comeu Comeu VERB VERB ROOT Xxxxx True False
+as o DET DET det xx True True
+futuras futuro ADJ ADJ amod xxxx True False
+viagens viagem NOUN NOUN obj xxxx True False
+em em ADP ADP case xx True True
+volta voltar NOUN NOUN nmod xxxx True False
+da da ADP ADP case xx True True
+
+
+ SPACE SPACE dep
+ False False
+terra terra PROPN PROPN flat:name xxxx True False
+, , PUNCT PUNCT punct , False False
+as o DET DET det xx True True
+futuras futuro ADJ ADJ amod xxxx True False
+estantes estante NOUN NOUN conj xxxx True False
+em em ADP ADP case xx True True
+volta voltar NOUN NOUN nmod xxxx True False
+da da ADP ADP case xx True True
+sala sala NOUN NOUN nmod xxxx True False
+. . PUNCT PUNCT punct . False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+O O DET DET det X True True
+amor amor NOUN NOUN nsubj xxxx True False
+comeu comer VERB VERB ROOT xxxx True False
+minha meu DET DET det xxxx True True
+paz paz NOUN NOUN obj xxx True False
+e e CCONJ CCONJ cc x True True
+minha meu DET DET det xxxx True True
+guerra guerra NOUN NOUN conj xxxx True False
+. . PUNCT PUNCT punct . False False
+Meu Meu DET DET det Xxx True True
+dia dia NOUN NOUN nmod xxx True False
+e e CCONJ CCONJ cc x True True
+
+
+ SPACE SPACE dep
+ False False
+minha meu DET DET det xxxx True True
+noite noite NOUN NOUN ROOT xxxx True False
+. . PUNCT PUNCT punct . False False
+Meu Meu DET DET det Xxx True True
+inverno invernar NOUN NOUN ROOT xxxx True False
+e e CCONJ CCONJ cc x True True
+meu meu DET DET det xxx True True
+verão ver NOUN NOUN conj xxxx True False
+. . PUNCT PUNCT punct . False False
+Comeu Comeu NOUN NOUN ROOT Xxxxx True False
+meu meu DET DET det xxx True True
+
+
+ SPACE SPACE dep
+ False False
+silêncio silêncio NOUN NOUN ROOT xxxx True False
+, , PUNCT PUNCT punct , False False
+minha meu DET DET det xxxx True True
+dor dor NOUN NOUN conj xxx True False
+de de ADP ADP case xx True True
+cabeça cabeça NOUN NOUN nmod xxxx True False
+, , PUNCT PUNCT punct , False False
+meu meu DET DET det xxx True True
+medo medo NOUN NOUN conj xxxx True False
+da da ADP ADP case xx True True
+morte morte NOUN NOUN nmod xxxx True False
+. . PUNCT PUNCT punct . False False
