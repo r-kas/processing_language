@@ -1,0 +1,200 @@
+Fábula Fábula PROPN PROPN ROOT Xxxxx True False
+de de ADP ADP case xx True True
+um um DET DET det xx True True
+arquiteto arquiteto NOUN NOUN nmod xxxx True False
+, , PUNCT PUNCT punct , False False
+1966 1966 NUM NUM appos dddd False False
+
+
+ SPACE SPACE dep
+ False False
+A A DET DET det X True True
+arquitetura arquitetura NOUN NOUN ROOT xxxx True False
+como comer SCONJ SCONJ mark xxxx True True
+construir construir VERB VERB acl xxxx True False
+portas portar NOUN NOUN obj xxxx True False
+, , PUNCT PUNCT punct , False False
+
+
+ SPACE SPACE dep
+ False False
+de de SCONJ SCONJ mark xx True True
+abrir abrir VERB VERB acl xxxx True False
+; ; PUNCT PUNCT punct ; False False
+ou ou CCONJ CCONJ cc xx True True
+como comer ADV ADV advmod xxxx True True
+construir construir VERB VERB conj xxxx True False
+o o DET DET det x True True
+aberto aberto NOUN NOUN obj xxxx True False
+; ; PUNCT PUNCT punct ; False False
+
+
+ SPACE SPACE dep
+ False False
+construir construir VERB VERB ROOT xxxx True False
+, , PUNCT PUNCT punct , False False
+não não ADV ADV cc xxx True True
+como comer ADV ADV fixed xxxx True True
+ilhar ilhar VERB VERB conj xxxx True False
+e e CCONJ CCONJ cc x True True
+prender prender VERB VERB conj xxxx True False
+, , PUNCT PUNCT punct , False False
+
+
+ SPACE SPACE dep
+ False False
+nem nem ADV ADV cc xxx True True
+construir construir VERB VERB conj xxxx True False
+como comer SCONJ SCONJ mark xxxx True True
+fechar fechar VERB VERB advcl xxxx True False
+secretos secreto ADJ ADJ obj xxxx True False
+; ; PUNCT PUNCT punct ; False False
+
+
+ SPACE SPACE dep
+ False False
+construir construir VERB VERB ROOT xxxx True False
+portas portar NOUN NOUN obj xxxx True False
+abertas aberto ADJ ADJ amod xxxx True False
+, , PUNCT PUNCT punct , False False
+em em ADP ADP case xx True True
+portas portar NOUN NOUN obl xxxx True False
+; ; PUNCT PUNCT punct ; False False
+
+
+ SPACE SPACE dep
+ False False
+casas casar NOUN NOUN ROOT xxxx True False
+exclusivamente exclusivamente ADV ADV advmod xxxx True False
+portas portar NOUN NOUN amod xxxx True False
+e e CCONJ CCONJ cc x True True
+tecto tecto NOUN NOUN conj xxxx True False
+. . PUNCT PUNCT punct . False False
+
+
+ SPACE SPACE dep
+ False False
+O O DET DET det X True True
+arquiteto arquiteto NOUN NOUN ROOT xxxx True False
+: : PUNCT PUNCT punct : False False
+o o PRON PRON appos x True True
+que que PRON PRON nsubj xxx True True
+abre abrir VERB VERB acl:relcl xxxx True False
+para parir ADP ADP case xxxx True True
+o o DET DET det x True True
+homem homem NOUN NOUN obl xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+( ( PUNCT PUNCT punct ( False False
+tudo tudo PRON PRON nsubj xxxx True True
+se se PRON PRON expl xx True True
+sanearia sanear VERB VERB acl:relcl xxxx True False
+desde desde ADP ADP case xxxx True True
+casas casar NOUN NOUN obl xxxx True False
+abertas aberto ADJ ADJ amod xxxx True False
+) ) PUNCT PUNCT punct ) False False
+
+
+ SPACE SPACE dep
+ False False
+portas portar NOUN NOUN ROOT xxxx True False
+por-onde por-onde ADJ ADJ amod xxx-xxxx False False
+, , PUNCT PUNCT punct , False False
+jamais jamais ADV ADV advmod xxxx True False
+portas-contra portas-contra NOUN NOUN amod xxxx-xxxx False False
+; ; PUNCT PUNCT punct ; False False
+
+
+ SPACE SPACE dep
+ False False
+por por ADP ADP case xxx True True
+onde onde NOUN NOUN obl xxxx True True
+, , PUNCT PUNCT punct , False False
+livres livre ADJ ADJ acl:relcl xxxx True False
+: : PUNCT PUNCT punct : False False
+ar ar NOUN NOUN nsubj xx True False
+luz luzir VERB VERB parataxis xxx True False
+razão razão NOUN NOUN obl xxxx True False
+certa certo DET DET det xxxx True False
+. . PUNCT PUNCT punct . False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+Até Até ADV ADV advmod Xxx True True
+que que SCONJ SCONJ fixed xxx True True
+, , PUNCT PUNCT punct , False False
+tantos tanto DET DET det xxxx True False
+livres livre ADJ ADJ obl xxxx True False
+o o DET DET det x True True
+amedrontando amedrontar VERB VERB nsubj xxxx True False
+, , PUNCT PUNCT punct , False False
+
+
+ SPACE SPACE dep
+ False False
+renegou renegar VERB VERB ROOT xxxx True False
+dar dar VERB VERB xcomp xxx True True
+a o SCONJ SCONJ mark x True True
+viver viver VERB VERB xcomp xxxx True False
+no o ADP ADP case xx True True
+claro claro NOUN NOUN obl xxxx True False
+e e CCONJ CCONJ cc x True True
+aberto aberto VERB VERB conj xxxx True False
+. . PUNCT PUNCT punct . False False
+
+
+ SPACE SPACE dep
+ False False
+Onde Onde PRON PRON amod Xxxx True True
+vãos vão NOUN NOUN obl xxxx True False
+de de SCONJ SCONJ mark xx True True
+abrir abrir VERB VERB acl xxxx True False
+, , PUNCT PUNCT punct , False False
+ele ele PRON PRON nsubj xxx True True
+foi ser AUX AUX aux xxx True True
+amurando amurar VERB VERB acl:relcl xxxx True False
+
+
+ SPACE SPACE dep
+ False False
+opacos opaco NOUN NOUN obj xxxx True False
+de de SCONJ SCONJ mark xx True True
+fechar fechar VERB VERB acl xxxx True False
+; ; PUNCT PUNCT punct ; False False
+onde onde DET DET det xxxx True True
+vidro vidrar NOUN NOUN dep xxxx True False
+, , PUNCT PUNCT punct , False False
+concreto concreto NOUN NOUN amod xxxx True False
+; ; PUNCT PUNCT punct ; False False
+In [15]:
+
+ SPACE SPACE dep
+ False False
+até até SCONJ SCONJ mark xxx True True
+fechar fechar VERB VERB acl xxxx True False
+o o DET DET det x True True
+homem homem NOUN NOUN obj xxxx True False
+: : PUNCT PUNCT punct : False False
+na o ADP ADP case xx True True
+capela capela NOUN NOUN nmod xxxx True False
+útero útero ADJ ADJ amod xxxx True False
+, , PUNCT PUNCT punct , False False
+
+
+ SPACE SPACE dep
+ False False
+com com ADP ADP case xxx True True
+confortos conforto NOUN NOUN nmod xxxx True False
+de de ADP ADP case xx True True
+matriz matriz NOUN NOUN nmod xxxx True False
+, , PUNCT PUNCT punct , False False
+outra outro DET DET det xxxx True True
+vez vez NOUN NOUN fixed xxx True True
+feto feto NOUN NOUN amod xxxx True False
+. . PUNCT PUNCT punct . False False
