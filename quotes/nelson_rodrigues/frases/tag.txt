@@ -1,0 +1,426 @@
+
+" " PUNCT PUNCT punct " False False
+Só Só ADV ADV advmod Xx True True
+acredito acreditar VERB VERB ROOT xxxx True False
+nas o ADP ADP case xxx True True
+pessoas pessoa NOUN NOUN obj xxxx True False
+que que PRON PRON nsubj xxx True True
+ainda ainda ADV ADV advmod xxxx True True
+se se PRON PRON expl xx True True
+ruborizam ruborizar VERB VERB acl:relcl xxxx True False
+. . PUNCT PUNCT punct . False False
+" " PUNCT PUNCT punct " False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+" " PUNCT PUNCT punct " False False
+Sou Sou AUX AUX cop Xxx True True
+reacionário reacionário ADJ ADJ ROOT xxxx True False
+. . PUNCT PUNCT punct . False False
+Minha Minha DET DET det Xxxxx True True
+reação reação NOUN NOUN nsubj xxxx True False
+é ser AUX AUX cop x True True
+contra contra ADP ADP case xxxx True True
+tudo tudo PRON PRON ROOT xxxx True True
+que que PRON PRON nsubj xxx True True
+não não ADV ADV advmod xxx True True
+presta presto VERB VERB acl:relcl xxxx True False
+. . PUNCT PUNCT punct . False False
+" " PUNCT PUNCT punct " False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+" " PUNCT PUNCT punct " False False
+Entre Entre ADP ADP case Xxxxx True True
+o o DET DET det x True True
+psicanalista psicanalista NOUN NOUN nmod xxxx True False
+e e CCONJ CCONJ cc x True True
+o o DET DET det x True True
+doente doente NOUN NOUN conj xxxx True False
+, , PUNCT PUNCT punct , False False
+o o DET DET det x True True
+mais mais ADV ADV advmod xxxx True True
+perigoso perigoso ADJ ADJ conj xxxx True False
+é ser AUX AUX cop x True True
+o o DET DET det x True True
+psicanalista psicanalista NOUN NOUN conj xxxx True False
+. . PUNCT PUNCT punct . False False
+" " PUNCT PUNCT punct " False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+" " PUNCT PUNCT punct " False False
+Toda Toda DET DET det Xxxx True True
+mulher mulher NOUN NOUN nsubj xxxx True False
+bonita bonito ADJ ADJ amod xxxx True False
+é ser AUX AUX cop x True True
+um um DET DET advmod xx True True
+pouco pouco ADV ADV fixed xxxx True True
+a o DET DET det x True True
+namorada namorar NOUN NOUN ROOT xxxx True False
+lésbica lésbico ADJ ADJ amod xxxx True False
+de de ADP ADP case xx True True
+si si PRON PRON nmod xx True False
+mesma mesmo ADJ ADJ amod xxxx True False
+. . PUNCT PUNCT punct . False False
+" " PUNCT PUNCT punct " False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+" " PUNCT PUNCT punct " False False
+Não Não ADV ADV advmod Xxx True True
+se se PRON PRON expl xx True True
+apresse apressar VERB VERB ROOT xxxx True False
+em em SCONJ SCONJ mark xx True True
+perdoar perdoar VERB VERB xcomp xxxx True False
+. . PUNCT PUNCT punct . False False
+A A DET DET det X True True
+misericórdia misericórdia NOUN NOUN nsubj xxxx True False
+também também ADV ADV advmod xxxx True True
+corrompe corromper VERB VERB ROOT xxxx True False
+. . PUNCT PUNCT punct . False False
+" " PUNCT PUNCT punct " False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+" " PUNCT PUNCT punct " False False
+Toda Toda DET DET det Xxxx True True
+mulher mulher NOUN NOUN nsubj xxxx True False
+gosta gostar VERB VERB ROOT xxxx True False
+de de SCONJ SCONJ mark xx True True
+apanhar apanhar VERB VERB xcomp xxxx True False
+. . PUNCT PUNCT punct . False False
+O O DET DET det X True True
+homem homem NOUN NOUN nsubj xxxx True False
+é ser VERB VERB ROOT x True True
+que que SCONJ SCONJ mark xxx True True
+não não ADV ADV advmod xxx True True
+gosta gostar VERB VERB ccomp xxxx True False
+de de SCONJ SCONJ mark xx True True
+bater bater VERB VERB xcomp xxxx True False
+. . PUNCT PUNCT punct . False False
+" " PUNCT PUNCT punct " False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+" " PUNCT PUNCT punct " False False
+O O DET DET det X True True
+jovem jovem NOUN NOUN nsubj xxxx True False
+tem ter VERB VERB ROOT xxx True True
+todos todo DET DET det xxxx True True
+os o DET DET fixed xx True True
+defeitos defeito NOUN NOUN obj xxxx True False
+do do ADP ADP case xx True True
+adulto adulto NOUN NOUN nmod xxxx True False
+e e CCONJ CCONJ cc x True True
+mais mais ADV ADV advmod xxxx True True
+um um NUM NUM conj xx True True
+: : PUNCT PUNCT punct : False False
+— — PUNCT PUNCT punct — False False
+o o PRON PRON appos x True True
+da da ADP ADP case xx True True
+imaturidade imaturidade NOUN NOUN nmod xxxx True False
+. . PUNCT PUNCT punct . False False
+" " PUNCT PUNCT punct " False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+" " PUNCT PUNCT punct " False False
+Não Não ADV ADV advmod Xxx True True
+há haver VERB VERB parataxis xx True False
+admiração admiração NOUN NOUN obj xxxx True False
+mais mais ADV ADV advmod xxxx True True
+deliciosa delicioso ADJ ADJ amod xxxx True False
+do do ADP ADP mark xx True True
+que que PRON PRON fixed xxx True True
+a o DET DET obl x True True
+do do ADP ADP case xx True True
+inimigo inimigo NOUN NOUN nmod xxxx True False
+. . PUNCT PUNCT punct . False False
+" " PUNCT PUNCT punct " False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+" " PUNCT PUNCT punct " False False
+O O DET DET det X True True
+artista artista NOUN NOUN nsubj xxxx True False
+tem ter AUX AUX aux xxx True True
+que que SCONJ SCONJ mark xxx True True
+ser ser AUX AUX cop xxx True True
+gênio gênio NOUN NOUN ROOT xxxx True False
+para parir ADP ADP case xxxx True True
+alguns algum PRON PRON nmod xxxx True True
+e e CCONJ CCONJ cc x True True
+imbecil imbecil ADJ ADJ conj xxxx True False
+para parir ADP ADP case xxxx True True
+outros outro PRON PRON nmod xxxx True True
+. . PUNCT PUNCT punct . False False
+Se Se SCONJ SCONJ mark Xx True True
+puder poder VERB VERB advcl xxxx True False
+ser ser AUX AUX cop xxx True True
+imbecil imbecil ADJ ADJ xcomp xxxx True False
+para parir ADP ADP case xxxx True True
+todos todo PRON PRON obl xxxx True True
+, , PUNCT PUNCT punct , False False
+melhor melhor ADV ADV ROOT xxxx True False
+ainda ainda ADV ADV advmod xxxx True True
+. . PUNCT PUNCT punct . False False
+" " PUNCT PUNCT punct " False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+" " PUNCT PUNCT punct " False False
+Todo Todo DET DET det Xxxx True True
+amor amor NOUN NOUN nsubj xxxx True False
+é ser AUX AUX cop x True True
+eterno eternar ADJ ADJ ROOT xxxx True False
+e e CCONJ CCONJ cc x True True
+, , PUNCT PUNCT punct , False False
+se se PRON PRON expl xx True True
+acaba acabar VERB VERB conj xxxx True False
+, , PUNCT PUNCT punct , False False
+não não ADV ADV advmod xxx True True
+era ser AUX AUX cop xxx True True
+amor amor NOUN NOUN xcomp xxxx True False
+. . PUNCT PUNCT punct . False False
+" " PUNCT PUNCT punct " False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+" " PUNCT PUNCT punct " False False
+Qualquer Qualquer DET DET det Xxxxx True True
+indivíduo indivíduo NOUN NOUN nsubj xxxx True False
+é ser AUX AUX cop x True True
+mais mais ADV ADV advmod xxxx True True
+importante importante ADJ ADJ parataxis xxxx True False
+do do ADP ADP case xx True True
+que que PRON PRON fixed xxx True True
+toda todo DET DET det xxxx True True
+a o DET DET fixed x True True
+Via Via PROPN PROPN obl Xxx True False
+Láctea Láctea PROPN PROPN flat:name Xxxxx True False
+. . PUNCT PUNCT punct . False False
+" " PUNCT PUNCT punct " False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+" " PUNCT PUNCT punct " False False
+Não Não ADV ADV advmod Xxx True True
+existe existir VERB VERB ROOT xxxx True False
+família família NOUN NOUN nsubj xxxx True False
+sem sem ADP ADP case xxx True True
+adúltera adúltero NOUN NOUN obl xxxx True False
+. . PUNCT PUNCT punct . False False
+" " PUNCT PUNCT punct " False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+" " PUNCT PUNCT punct " False False
+Toda Toda NOUN NOUN det Xxxx True True
+unanimidade unanimidade NOUN NOUN nsubj xxxx True False
+é ser AUX AUX cop x True True
+burra burro ADJ ADJ ROOT xxxx True False
+. . PUNCT PUNCT punct . False False
+Quem Quem PRON PRON nsubj Xxxx True True
+pensa pensar VERB VERB advcl xxxx True False
+com com ADP ADP case xxx True True
+a o DET DET det x True True
+unanimidade unanimidade NOUN NOUN obj xxxx True False
+não não ADV ADV advmod xxx True True
+precisa preciso VERB VERB ROOT xxxx True False
+pensar pensar VERB VERB xcomp xxxx True False
+. . PUNCT PUNCT punct . False False
+" " PUNCT PUNCT punct " False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+" " PUNCT PUNCT punct " False False
+A A DET DET det X True True
+vida vidar NOUN NOUN nsubj xxxx True False
+é ser AUX AUX cop x True True
+a o DET DET det x True True
+arte arte NOUN NOUN ROOT xxxx True False
+de de SCONJ SCONJ mark xx True True
+não não ADV ADV advmod xxx True True
+fazer fazer VERB VERB acl xxxx True True
+favores favor NOUN NOUN obj xxxx True False
+. . PUNCT PUNCT punct . False False
+Nada Nada PRON PRON nsubj Xxxx True True
+ofende ofender VERB VERB ROOT xxxx True False
+mais mais ADV ADV advmod xxxx True True
+do do ADP ADP case xx True True
+que que PRON PRON fixed xxx True True
+o o DET DET det x True True
+benefício benefício NOUN NOUN obl xxxx True False
+, , PUNCT PUNCT punct , False False
+nada nado PRON PRON nsubj xxxx True True
+agride agredir VERB VERB parataxis xxxx True False
+mais mais ADV ADV advmod xxxx True True
+do do ADP ADP case xx True True
+que que PRON PRON fixed xxx True True
+o o DET DET det x True True
+favor favor NOUN NOUN obl xxxx True True
+. . PUNCT PUNCT punct . False False
+" " PUNCT PUNCT punct " False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+" " PUNCT PUNCT punct " False False
+As As DET DET det Xx True True
+feministas feminista NOUN NOUN nsubj xxxx True False
+querem querer VERB VERB ROOT xxxx True True
+reduzir reduzir VERB VERB xcomp xxxx True False
+a o DET DET det x True True
+mulher mulher NOUN NOUN obj xxxx True False
+a o ADP ADP case x True True
+um um DET DET det xx True True
+macho macho NOUN NOUN iobj xxxx True False
+mal-acabado mal-acabado ADJ ADJ amod xxx-xxxx False False
+. . PUNCT PUNCT punct . False False
+" " PUNCT PUNCT punct " False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+" " PROPN PROPN punct " False False
+Dinheiro Dinheiro PROPN PROPN nsubj Xxxxx True False
+compra comprar VERB VERB ROOT xxxx True False
+tudo tudo PRON PRON obj xxxx True True
+. . PUNCT PUNCT punct . False False
+Até Até ADP ADP ROOT Xxx True True
+amor amor NOUN NOUN obj xxxx True False
+verdadeiro verdadeiro ADJ ADJ amod xxxx True False
+. . PUNCT PUNCT punct . False False
+" " PUNCT PUNCT punct " False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+" " PUNCT PUNCT punct " False False
+Invejo Invejo PROPN PROPN ROOT Xxxxx True False
+a o DET DET det x True True
+burrice burrice NOUN NOUN obj xxxx True False
+, , PUNCT PUNCT punct , False False
+porque porque SCONJ SCONJ mark xxxx True True
+é ser AUX AUX cop x True True
+eterna eterno ADJ ADJ advcl xxxx True False
+. . PUNCT PUNCT punct . False False
+" " PUNCT PUNCT punct " False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+" " PUNCT PUNCT punct " False False
+O O DET DET det X True True
+brasileiro brasileiro NOUN NOUN nsubj xxxx True False
+é ser AUX AUX cop x True True
+um um DET DET det xx True True
+feriado feriar NOUN NOUN ROOT xxxx True False
+. . PUNCT PUNCT punct . False False
+" " PUNCT PUNCT punct " False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+" " PUNCT PUNCT punct " False False
+A A DET DET det X True True
+educação educação NOUN NOUN nsubj:pass xxxx True False
+sexual sexual ADJ ADJ amod xxxx True False
+só só ADV ADV advmod xx True True
+devia dever VERB VERB ROOT xxxx True False
+ser ser AUX AUX aux:pass xxx True True
+dada dar VERB VERB xcomp xxxx True False
+por por ADP ADP case xxx True True
+um um DET DET det xx True True
+veterinário veterinário NOUN NOUN obl:agent xxxx True False
+. . PUNCT PUNCT punct . False False
+" " PUNCT PUNCT punct " False False
+
+
+
+
+ SPACE SPACE dep
+
+ False False
+" " PUNCT PUNCT punct " False False
+Na Na ADP ADP case Xx True True
+vida vidar NOUN NOUN obl xxxx True False
+, , PUNCT PUNCT punct , False False
+o o DET DET det x True True
+importante importante NOUN NOUN nsubj xxxx True False
+é ser AUX AUX cop x True True
+fracassar fracassar VERB VERB ROOT xxxx True False
+. . PUNCT PUNCT punct . False False
+" " PUNCT PUNCT punct " False False
+
+
+ SPACE SPACE dep
+ False False
